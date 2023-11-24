@@ -9,10 +9,8 @@
 </div>
 <br>
 <div align= "center">
-  <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/bf7aabdc-2ba5-4fd4-a48f-eaffa44e5f77" style = "width: 60px">
-  <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/901a88a1-b6c8-42d7-93e6-2a38839b25b2" style = "width: 60px">
-  <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/e5d9239a-94b3-4466-9106-ef1bfdfa0215" style = "width: 60px">
-  <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/9b68abe9-eabb-40be-b31a-e363519614f8" style = "width: 60px">
+  ![68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270](https://github.com/abbasbayat0/abbasbayat0/assets/120355368/0a1fb3e3-863d-4c4a-abae-0ec81065e7ce)
+
 </div>
 <br>
 <div align= "center">
