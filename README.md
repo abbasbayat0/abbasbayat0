@@ -9,8 +9,7 @@
 </div>
 <br>
 <div align= "center">
-  ![68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270](https://github.com/abbasbayat0/abbasbayat0/assets/120355368/0a1fb3e3-863d-4c4a-abae-0ec81065e7ce)
-
+  <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/0a1fb3e3-863d-4c4a-abae-0ec81065e7ce">
 </div>
 <br>
 <div align= "center">
