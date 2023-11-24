@@ -2,7 +2,9 @@
 
 <h2 align= "center">Hello There</h2>
 <p align= "center">My name is <strong>ABBAS</strong></p>
-<img align="center" src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/338bc593-42e5-4c5e-b296-3b6b3e52c77c">
+<div align="center">
+  <img align="center" src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/338bc593-42e5-4c5e-b296-3b6b3e52c77c">
+</div>
 <br>
 <p align= "center">I am a Front-End Developer</p>
 <div align= "center">
