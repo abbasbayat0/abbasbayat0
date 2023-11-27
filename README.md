@@ -1,5 +1,4 @@
 ![header-small_gif (900×394)](https://github.com/abbasbayat0/abbasbayat0/assets/120355368/e708bd4a-852f-469a-823a-b735d7133652)
-
 <h2 align= "center">Hello There</h2>
 <p align= "center">My name is <strong>ABBAS</strong></p>
 <div align="center">
