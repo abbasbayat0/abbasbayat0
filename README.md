@@ -15,11 +15,6 @@
 <p align= "center">Contact me :</p>
 <div align= "center">
   <br>
-  <a href="https://www.linkedin.com/in/abbasbayat" target="_blank">
-    LinkedIn
-  </a>
-  <br>
-  <br>
   <a href="https://t.me/abbasbayat" target="_blank">
     Telegram
   </a>
