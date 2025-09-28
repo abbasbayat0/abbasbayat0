@@ -5,7 +5,11 @@
 <h1 align="center">Hello There 👋</h1>
 
 <p align="center">
-  My name is <strong>ABBAS</strong>, a passionate Front-End Developer who loves new challenges and problem solving. With research and continuous learning, I have the ability to accomplish any task.
+  My name is <strong>ABBAS</strong>, a passionate Front-End Developer who loves new challenges and problem solving. With research and continuous learning, I have the ability to accomplish any task. 
+</p>
+
+<p align="center">
+  (I CAN FIND ANYTHING I WANT BY SEARCHING!)
 </p>
 
 <h2 align="center">My Skills</h2>
