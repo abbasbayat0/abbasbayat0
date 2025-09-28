@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  (I CAN FIND ANYTHING I WANT BY SEARCHING!)
+  ( I CAN FIND ANYTHING I WANT BY SEARCHING! )
 </p>
 
 <h2 align="center">My Skills</h2>
