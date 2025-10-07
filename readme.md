@@ -28,7 +28,7 @@
 
 <div align="center">
 
-### E-Commerce Website
+### Store Project
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA44F?style=for-the-badge)](https://store-zeta-five.vercel.app)
 [![Source Code](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/abbasbayat0/store)
 
