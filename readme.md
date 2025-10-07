@@ -5,11 +5,7 @@
 <h1 align="center">Hello There 👋</h1>
 
 <p align="center">
-  My name is <strong>ABBAS</strong>, a passionate Front-End Developer who loves new challenges and problem solving. With research and continuous learning, I have the ability to accomplish any task. 
-</p>
-
-<p align="center">
-  ( I CAN FIND ANYTHING I WANT BY SEARCHING! )
+  My name is <strong>ABBAS</strong>, a passionate Front-End Developer who loves new challenges and problem solving. With research and continuous learning, I have the ability to accomplish any task.
 </p>
 
 <h2 align="center">My Skills</h2>
@@ -25,6 +21,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </p>
+
+---
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+<div align="center">
+
+### E-Commerce Website
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA44F?style=for-the-badge)](https://store-zeta-five.vercel.app)
+[![Source Code](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/abbasbayat0/store)
+
+A Store project built with Next.js, TypeScript, and Tailwind CSS.
+
+
+</div>
 
 ---
 
